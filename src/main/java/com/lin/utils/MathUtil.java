@@ -13,6 +13,9 @@ public class MathUtil {
         return a+b;
     }
 
+    public void hi(){
+
+    }
     public void say(){
 
     }
